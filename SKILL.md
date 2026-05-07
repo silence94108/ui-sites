@@ -1,7 +1,7 @@
 ---
 name: ui-sites
-description: "UI/UX 离线设计知识库。基于 55 个顶级设计资源网站预提取的设计知识，涵盖配色方案、字体排版、布局模式、组件设计、动效动画、设计系统、Landing Page、移动端 UI 共 8 大主题。无需联网即可直接输出专业的 UI/UX 设计方案和代码。当用户说 '/ui-sites'、'设计方案'、'配色方案'、'字体搭配'、'布局建议'、'组件规范'、'动画效果'、'Landing Page'、'移动端设计'、'设计系统' 时使用。"
-argument-hint: "[主题] 如: 配色、字体、布局、组件、动效、设计系统、landing-page、移动端"
+description: "UI/UX 离线设计知识库。基于 55 个顶级设计资源网站预提取的设计知识，涵盖配色方案、字体排版、布局模式、组件设计、动效动画、设计系统、Landing Page、移动端 UI、Logo 设计共 9 大主题。无需联网即可直接输出专业的 UI/UX 设计方案和代码。当用户说 '/ui-sites'、'设计方案'、'配色方案'、'字体搭配'、'布局建议'、'组件规范'、'动画效果'、'Landing Page'、'移动端设计'、'设计系统'、'logo 设计'、'品牌符号' 时使用。"
+argument-hint: "[主题] 如: 配色、字体、布局、组件、动效、设计系统、landing-page、移动端、logo"
 user-invocable: true
 ---
 
@@ -27,6 +27,7 @@ user-invocable: true
 | 设计系统、Token、主题 | `knowledge/_index/design-systems.md` |
 | Landing Page、着陆页 | `knowledge/_index/landing-pages.md` |
 | 移动端、App、iOS/Android | `knowledge/_index/mobile-ui.md` |
+| Logo、标志、品牌符号、Brand | `knowledge/_index/logo-design.md` |
 
 ### 第二步：按索引指引读取子文件
 
